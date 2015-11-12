@@ -1,0 +1,26 @@
+{
+  "name": "wangan.github.io",
+  "homepage": "https://github.com/wangan/wangan.github.io",
+  "authors": [
+    "王安 <anntony.wang@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
