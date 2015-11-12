@@ -12,6 +12,7 @@ body {
     position: fixed;
     top: 50%;
     right: 0px;
+    width: 80px;
 }
 
 .btn-publish {
