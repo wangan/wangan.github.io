@@ -37,14 +37,14 @@ body {
     min-height: 500px;
     display: block;
     overflow: hidden;
-    /*border: 1px solid red;*/
+    border: 1px solid #ccc;
 }
 
 .preview-zone {
     float: right;
     visibility: hidden;
     text-align: left;
-    border: 1px solid black;
+    border: 1px solid #ccc;
     width: 49%;
     min-height: 500px;
     display: inline-block;
