@@ -55,4 +55,14 @@
             return window.markdownit();
         }
     }
+    ,
+    "Link": function Link(rqueire, module, exports) {
+        module.exports = function (content) {
+            $.ajax({
+                url: "http://dwz.cn/create.php",
+                type: "POST",
+
+            });
+        }
+    }
 })
